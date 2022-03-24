@@ -1,0 +1,41 @@
+.heading {
+    font-size: 23px;
+    font-family:  'Lucida Grande';
+    width: 100%;
+    background: linear-gradient(lightcoral 0%, rgb(160, 119, 255) 100%);
+    margin: 0px;
+    border-radius: 15px;
+    font-style: oblique;
+    font-weight: bold;
+    padding:10px;
+}
+
+#h3
+{
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Vujahday Script', cursive;
+}
+
+.note {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 5px;
+    color: black;
+    letter-spacing: 1px;
+    font-family: 'Gill Sans';
+}
+body
+{
+  background-size: cover;	
+}
+#song {
+    font-size: 20px;
+    margin: 15px;
+    background: linear-gradient(lightcoral 0%, rgb(150, 117, 243) 100%);
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px gray;
+}
